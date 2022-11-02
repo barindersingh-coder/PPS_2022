@@ -13,7 +13,9 @@ printf("x is less than 10");
 
 return 0;
 }
-**OUTPUT: 
-enter a number5enter a number5
-x is less than 10
+```
+**OUTPUT**:
+
+enter a number5
 x is less than 10**
+
