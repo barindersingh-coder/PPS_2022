@@ -1,4 +1,4 @@
-## Program 4: To display operators in c
+## Program 04: To display operators in c
 ```c
 #include<stdio.h>
 
