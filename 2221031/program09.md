@@ -1,4 +1,4 @@
-## Program9: write a program to show the work of switch case statement
+## Program09: write a program to show the work of switch case statement
 ```C
 #include<stdio.h>
 void main()
