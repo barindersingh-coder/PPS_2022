@@ -1,4 +1,4 @@
-## Program 3 : WRITE A PROGRAM TO DISPLAY ANY INTEGER
+## Program 03 : WRITE A PROGRAM TO DISPLAY ANY INTEGER
 ```C
 #include <stdio.h>
 int main()
