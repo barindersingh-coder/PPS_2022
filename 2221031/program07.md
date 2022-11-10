@@ -1,4 +1,4 @@
-## Program 7:Write a program to show the work of while loop
+## Program 07:Write a program to show the work of while loop
 ```C
 #include<stdio.h>
 int main(){
