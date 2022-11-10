@@ -1,4 +1,4 @@
-## Program:8 Write a program to shopw the work og do while loop
+## Program:08 Write a program to shopw the work og do while loop
 ```C
 #include<stdio.h>
 void main()
