@@ -1,4 +1,4 @@
-### Program:16 Write a program to show the work of float and double
+### Program:16 T1
 ```C
 #include <stdio.h>
 Int main()
